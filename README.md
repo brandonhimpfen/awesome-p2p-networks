@@ -52,6 +52,7 @@
 - **[RetroShare](https://retroshare.cc/)** - An open-source P2P communication and file-sharing platform.
 - **[Soulseek](https://www.slsknet.org/)** - A P2P file-sharing application focused on music sharing.
 - **[LimeWire (Revived)](https://www.limewire.com/)** - A new version of the classic P2P file-sharing software, focused on NFTs and digital content.
+- **[Spixi](https://www.spixi.io/)** - A decentralized P2P messenger with post-quantum encryption, voice calls and file sharing. No central servers or accounts required.
 
 ## Blockchain and P2P Networks
 
@@ -68,6 +69,7 @@
 - **[Gun.js](https://gun.eco/)** - A real-time, decentralized graph database with P2P capabilities.
 - **[OrbitDB](https://orbitdb.org/)** - A decentralized, P2P database built on IPFS.
 - **[Textile](https://textile.io/)** - A suite of tools for building P2P and decentralized applications.
+- **[Ixian](https://www.ixian.io/)** - A decentralized P2P platform with DLT, presence-based peer discovery, and hybrid post-quantum cryptography for building serverless communication applications.
 
 ## Educational Resources
 
