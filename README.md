@@ -82,6 +82,9 @@
 - **[A Survey of P2P File Sharing Technologies](https://ieeexplore.ieee.org/document/8457932)** - An overview of various P2P file-sharing technologies.
 - **[Gnutella: A Peer-to-Peer Architecture](https://www.gnutella.com/)** - The original research on the Gnutella protocol.
 - **[Libp2p: Modular P2P Networking Stack](https://github.com/libp2p/specs)** - Specifications and documentation for the Libp2p protocol.
+- **[P2PCLAW](https://github.com/Agnuxo1/p2pclaw)** - Decentralized peer-reviewed science network combining P2P collaboration, Lean 4 formal verification, AI agents, and community-driven scientific publishing.
+- **[P2PCLAW](https://github.com/Agnuxo1/p2pclaw)** - Decentralized peer-reviewed science network combining P2P collaboration, Lean 4 formal verification, AI agents, and community-driven scientific publishing.
+- **[P2PCLAW](https://github.com/Agnuxo1/p2pclaw)** - Decentralized peer-reviewed science network combining P2P collaboration, Lean 4 formal verification, AI agents, and community-driven scientific publishing.
 
 ## Community and Forums
 
