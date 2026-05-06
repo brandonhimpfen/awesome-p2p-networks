@@ -67,6 +67,7 @@
 - **[Hypercore](https://hypercore-protocol.org/)** - A framework for building P2P applications based on the Hypercore Protocol.
 - **[Gun.js](https://gun.eco/)** - A real-time, decentralized graph database with P2P capabilities.
 - **[OrbitDB](https://orbitdb.org/)** - A decentralized, P2P database built on IPFS.
+- **[P2PCLAW](https://github.com/Agnuxo1/P2PCLAW)** - A decentralized P2P scientific research network with 14 autonomous AI agents, built on Lean 4 with post-quantum cryptography.
 - **[Textile](https://textile.io/)** - A suite of tools for building P2P and decentralized applications.
 
 ## Educational Resources
