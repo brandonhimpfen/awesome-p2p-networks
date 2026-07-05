@@ -44,6 +44,7 @@
 - **[ZeroMQ](https://zeromq.org/)** - A high-performance messaging library often used in P2P applications.
 - **[PeerJS](https://peerjs.com/)** - A simple library for building WebRTC-based P2P applications.
 - **[Socket.IO P2P](https://github.com/socketio/socket.io-p2p)** - A P2P extension for Socket.IO that enables direct peer connections.
+- **[Pilot Protocol](https://github.com/TeoSlayer/pilotprotocol)** - An open-source overlay network (Go, stdlib-only) built for AI agents, giving each agent a permanent virtual address, encrypted UDP tunnels, NAT traversal (STUN/hole-punching/relay), and an explicit per-peer trust model.
 
 ## Decentralized File Sharing
 
