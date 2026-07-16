@@ -52,6 +52,7 @@
 - **[RetroShare](https://retroshare.cc/)** - An open-source P2P communication and file-sharing platform.
 - **[Soulseek](https://www.slsknet.org/)** - A P2P file-sharing application focused on music sharing.
 - **[LimeWire (Revived)](https://www.limewire.com/)** - A new version of the classic P2P file-sharing software, focused on NFTs and digital content.
+- **[meshare](https://github.com/HassanNadeem1122/meshare)** - Zero-install P2P file sharing and static site hosting that runs entirely in the browser via WebRTC; every recipient automatically becomes a seeder for the next.
 
 ## Blockchain and P2P Networks
 
